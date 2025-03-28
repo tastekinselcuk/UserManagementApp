@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "huVZQdXfUBq0ysJFAzBkDaLjFkL4TOqsvGyW4SzL64U=",
+  "Hash": "upWeCkhbdjQ5t3SG+zycdWS3a0fD8l3e1TiZPAiKy9o=",
   "Source": "UserManagementApp",
   "BasePath": "_content/UserManagementApp",
   "Mode": "Default",
@@ -164,12 +164,12 @@
       "OriginalItemSpec": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\obj\\Debug\\net9.0\\compressed\\45kpnh5nq4-nfuigs3bbb.gz",
+      "Identity": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\obj\\Debug\\net9.0\\compressed\\45kpnh5nq4-dypyu0inwq.gz",
       "SourceId": "UserManagementApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/UserManagementApp",
-      "RelativePath": "js/users#[.{fingerprint=nfuigs3bbb}]?.js.gz",
+      "RelativePath": "js/users#[.{fingerprint=dypyu0inwq}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -178,8 +178,8 @@
       "RelatedAsset": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\wwwroot\\js\\users.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "gc0t2u2yr4",
-      "Integrity": "AMH0yUmBttU+MwhgPcdU4hUYIzGbhfLnmu013As+fl4=",
+      "Fingerprint": "ww0cja0g5q",
+      "Integrity": "oOpKjI8pMI4TzrEOamCvkzSRgQYTrMQvY+cezItjRew=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\wwwroot\\js\\users.js"
@@ -435,27 +435,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\obj\\Debug\\net9.0\\compressed\\8z03z80c97-xtxxf3hu2r.gz",
-      "SourceId": "UserManagementApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/UserManagementApp",
-      "RelativePath": "js/site#[.{fingerprint=xtxxf3hu2r}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\wwwroot\\js\\site.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "rl5dcbfpcw",
-      "Integrity": "Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\wwwroot\\js\\site.js"
     },
     {
       "Identity": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\obj\\Debug\\net9.0\\compressed\\97zc3vqgdc-47otxtyo56.gz",
@@ -1466,27 +1445,6 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\wwwroot\\js\\site.js",
-      "SourceId": "UserManagementApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\wwwroot\\",
-      "BasePath": "_content/UserManagementApp",
-      "RelativePath": "js/site#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "xtxxf3hu2r",
-      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
-    },
-    {
       "Identity": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\wwwroot\\js\\users.js",
       "SourceId": "UserManagementApp",
       "SourceType": "Discovered",
@@ -1501,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "nfuigs3bbb",
-      "Integrity": "baWtpyXcqw3VqcLu1VoMlluA4EsHaj76a7NRPuoandM=",
+      "Fingerprint": "dypyu0inwq",
+      "Integrity": "G4qHppq8pWb+eRbrfuSayNNLyX++wA0KQ/6OyjeERW4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\users.js"
@@ -3366,13 +3324,13 @@
       ]
     },
     {
-      "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\obj\\Debug\\net9.0\\compressed\\8z03z80c97-xtxxf3hu2r.gz",
+      "Route": "js/users.dypyu0inwq.js",
+      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\obj\\Debug\\net9.0\\compressed\\45kpnh5nq4-dypyu0inwq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.005263157895"
+          "Quality": "0.000257532835"
         }
       ],
       "ResponseHeaders": [
@@ -3382,152 +3340,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189"
+          "Value": "3882"
         },
         {
           "Name": "ETag",
-          "Value": "\"Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=\""
+          "Value": "\"oOpKjI8pMI4TzrEOamCvkzSRgQYTrMQvY+cezItjRew=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 00:00:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\wwwroot\\js\\site.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "231"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 00:00:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.js.gz",
-      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\obj\\Debug\\net9.0\\compressed\\8z03z80c97-xtxxf3hu2r.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "189"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 00:00:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\obj\\Debug\\net9.0\\compressed\\8z03z80c97-xtxxf3hu2r.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.005263157895"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "189"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 00:00:19 GMT"
+          "Value": "Fri, 28 Mar 2025 08:40:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3547,179 +3368,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "W/\"G4qHppq8pWb+eRbrfuSayNNLyX++wA0KQ/6OyjeERW4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "dypyu0inwq"
         },
         {
           "Name": "label",
-          "Value": "js/site.js"
+          "Value": "js/users.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-G4qHppq8pWb+eRbrfuSayNNLyX++wA0KQ/6OyjeERW4="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\wwwroot\\js\\site.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "231"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 00:00:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.xtxxf3hu2r.js.gz",
-      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\obj\\Debug\\net9.0\\compressed\\8z03z80c97-xtxxf3hu2r.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "189"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 00:00:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA="
-        }
-      ]
-    },
-    {
-      "Route": "js/users.js",
-      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\obj\\Debug\\net9.0\\compressed\\45kpnh5nq4-nfuigs3bbb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000505305710"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1978"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AMH0yUmBttU+MwhgPcdU4hUYIzGbhfLnmu013As+fl4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 01:23:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"baWtpyXcqw3VqcLu1VoMlluA4EsHaj76a7NRPuoandM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-baWtpyXcqw3VqcLu1VoMlluA4EsHaj76a7NRPuoandM="
-        }
-      ]
-    },
-    {
-      "Route": "js/users.js",
+      "Route": "js/users.dypyu0inwq.js",
       "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\wwwroot\\js\\users.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3729,7 +3397,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7553"
+          "Value": "15889"
         },
         {
           "Name": "Content-Type",
@@ -3737,121 +3405,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"baWtpyXcqw3VqcLu1VoMlluA4EsHaj76a7NRPuoandM=\""
+          "Value": "\"G4qHppq8pWb+eRbrfuSayNNLyX++wA0KQ/6OyjeERW4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 01:23:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-baWtpyXcqw3VqcLu1VoMlluA4EsHaj76a7NRPuoandM="
-        }
-      ]
-    },
-    {
-      "Route": "js/users.js.gz",
-      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\obj\\Debug\\net9.0\\compressed\\45kpnh5nq4-nfuigs3bbb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1978"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AMH0yUmBttU+MwhgPcdU4hUYIzGbhfLnmu013As+fl4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 01:23:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-AMH0yUmBttU+MwhgPcdU4hUYIzGbhfLnmu013As+fl4="
-        }
-      ]
-    },
-    {
-      "Route": "js/users.nfuigs3bbb.js",
-      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\obj\\Debug\\net9.0\\compressed\\45kpnh5nq4-nfuigs3bbb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000505305710"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1978"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AMH0yUmBttU+MwhgPcdU4hUYIzGbhfLnmu013As+fl4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 01:23:56 GMT"
+          "Value": "Fri, 28 Mar 2025 08:40:53 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"baWtpyXcqw3VqcLu1VoMlluA4EsHaj76a7NRPuoandM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "nfuigs3bbb"
+          "Value": "dypyu0inwq"
         },
         {
           "Name": "label",
@@ -3859,13 +3427,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-baWtpyXcqw3VqcLu1VoMlluA4EsHaj76a7NRPuoandM="
+          "Value": "sha256-G4qHppq8pWb+eRbrfuSayNNLyX++wA0KQ/6OyjeERW4="
         }
       ]
     },
     {
-      "Route": "js/users.nfuigs3bbb.js",
-      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\wwwroot\\js\\users.js",
+      "Route": "js/users.dypyu0inwq.js.gz",
+      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\obj\\Debug\\net9.0\\compressed\\45kpnh5nq4-dypyu0inwq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3874,7 +3442,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7553"
+          "Value": "3882"
         },
         {
           "Name": "Content-Type",
@@ -3882,56 +3450,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"baWtpyXcqw3VqcLu1VoMlluA4EsHaj76a7NRPuoandM=\""
+          "Value": "\"oOpKjI8pMI4TzrEOamCvkzSRgQYTrMQvY+cezItjRew=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 01:23:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "nfuigs3bbb"
-        },
-        {
-          "Name": "label",
-          "Value": "js/users.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-baWtpyXcqw3VqcLu1VoMlluA4EsHaj76a7NRPuoandM="
-        }
-      ]
-    },
-    {
-      "Route": "js/users.nfuigs3bbb.js.gz",
-      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\obj\\Debug\\net9.0\\compressed\\45kpnh5nq4-nfuigs3bbb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1978"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AMH0yUmBttU+MwhgPcdU4hUYIzGbhfLnmu013As+fl4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 01:23:56 GMT"
+          "Value": "Fri, 28 Mar 2025 08:40:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3949,7 +3472,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "nfuigs3bbb"
+          "Value": "dypyu0inwq"
         },
         {
           "Name": "label",
@@ -3957,7 +3480,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AMH0yUmBttU+MwhgPcdU4hUYIzGbhfLnmu013As+fl4="
+          "Value": "sha256-oOpKjI8pMI4TzrEOamCvkzSRgQYTrMQvY+cezItjRew="
+        }
+      ]
+    },
+    {
+      "Route": "js/users.js",
+      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\obj\\Debug\\net9.0\\compressed\\45kpnh5nq4-dypyu0inwq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000257532835"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3882"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oOpKjI8pMI4TzrEOamCvkzSRgQYTrMQvY+cezItjRew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 08:40:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"G4qHppq8pWb+eRbrfuSayNNLyX++wA0KQ/6OyjeERW4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G4qHppq8pWb+eRbrfuSayNNLyX++wA0KQ/6OyjeERW4="
+        }
+      ]
+    },
+    {
+      "Route": "js/users.js",
+      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\wwwroot\\js\\users.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15889"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G4qHppq8pWb+eRbrfuSayNNLyX++wA0KQ/6OyjeERW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 08:40:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G4qHppq8pWb+eRbrfuSayNNLyX++wA0KQ/6OyjeERW4="
+        }
+      ]
+    },
+    {
+      "Route": "js/users.js.gz",
+      "AssetFile": "C:\\Users\\taste\\Desktop\\guvence_hesabi\\UserManagementApp\\obj\\Debug\\net9.0\\compressed\\45kpnh5nq4-dypyu0inwq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oOpKjI8pMI4TzrEOamCvkzSRgQYTrMQvY+cezItjRew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 08:40:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oOpKjI8pMI4TzrEOamCvkzSRgQYTrMQvY+cezItjRew="
         }
       ]
     },
@@ -21650,7 +21310,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:59:43 GMT"
+          "Value": "Fri, 28 Mar 2025 09:07:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21711,7 +21371,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:59:43 GMT"
+          "Value": "Fri, 28 Mar 2025 09:07:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21756,7 +21416,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:59:43 GMT"
+          "Value": "Fri, 28 Mar 2025 09:07:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21811,7 +21471,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:59:43 GMT"
+          "Value": "Fri, 28 Mar 2025 09:07:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21872,7 +21532,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:59:43 GMT"
+          "Value": "Fri, 28 Mar 2025 09:07:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21917,7 +21577,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:59:43 GMT"
+          "Value": "Fri, 28 Mar 2025 09:07:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21972,7 +21632,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:59:43 GMT"
+          "Value": "Fri, 28 Mar 2025 09:07:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22025,7 +21685,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:59:43 GMT"
+          "Value": "Fri, 28 Mar 2025 09:07:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22062,7 +21722,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:59:43 GMT"
+          "Value": "Fri, 28 Mar 2025 09:07:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22109,7 +21769,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:59:43 GMT"
+          "Value": "Fri, 28 Mar 2025 09:07:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22162,7 +21822,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:59:43 GMT"
+          "Value": "Fri, 28 Mar 2025 09:07:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22199,7 +21859,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 13:59:43 GMT"
+          "Value": "Fri, 28 Mar 2025 09:07:50 GMT"
         },
         {
           "Name": "Cache-Control",

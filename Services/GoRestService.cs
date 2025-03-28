@@ -25,7 +25,7 @@ namespace UserManagementApp.Services
             _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _apiToken);
         }
 
-        private async Task<T> ExecuteWithRetryAsync<T>(Func<Task<T>> operation)
+        private static async Task<T> ExecuteWithRetryAsync<T>(Func<Task<T>> operation)
         {
             Exception? lastException = null;
 
@@ -56,7 +56,7 @@ namespace UserManagementApp.Services
             var totalCount = int.Parse(response.Headers.GetValues("X-Pagination-Total").FirstOrDefault() ?? "0");
             var users = await JsonSerializer.DeserializeAsync<IEnumerable<User>>(
                 await response.Content.ReadAsStreamAsync(),
-                _jsonOptions) ?? Array.Empty<User>();
+                _jsonOptions) ?? Enumerable.Empty<User>();
 
             return (users, totalCount);
         }
@@ -158,53 +158,5 @@ namespace UserManagementApp.Services
             });
         }
 
-        public async Task<IEnumerable<Post>> GetUserPosts(int userId)
-        {
-            var response = await _httpClient.GetAsync($"{BaseUrl}/users/{userId}/posts");
-            response.EnsureSuccessStatusCode();
-
-            return await JsonSerializer.DeserializeAsync<IEnumerable<Post>>(
-                await response.Content.ReadAsStreamAsync(),
-                _jsonOptions) ?? Array.Empty<Post>();
-        }
-
-        public async Task<Post> CreateUserPost(int userId, Post post)
-        {
-            var content = new StringContent(
-                JsonSerializer.Serialize(post, _jsonOptions),
-                Encoding.UTF8,
-                "application/json");
-
-            var response = await _httpClient.PostAsync($"{BaseUrl}/users/{userId}/posts", content);
-            response.EnsureSuccessStatusCode();
-
-            return await JsonSerializer.DeserializeAsync<Post>(
-                await response.Content.ReadAsStreamAsync(),
-                _jsonOptions) ?? throw new InvalidOperationException("Failed to create post");
-        }
-
-        public async Task<IEnumerable<Todo>> GetUserTodos(int userId)
-        {
-            var response = await _httpClient.GetAsync($"{BaseUrl}/users/{userId}/todos");
-            response.EnsureSuccessStatusCode();
-
-            var content = await response.Content.ReadAsStringAsync();
-            return JsonSerializer.Deserialize<IEnumerable<Todo>>(content, _jsonOptions) ?? Array.Empty<Todo>();
-        }
-
-        public async Task<Todo> CreateUserTodo(int userId, Todo todo)
-        {
-            var content = new StringContent(
-                JsonSerializer.Serialize(todo),
-                Encoding.UTF8,
-                MediaTypeHeaderValue.Parse("application/json").ToString());
-
-            var response = await _httpClient.PostAsync($"{BaseUrl}/users/{userId}/todos", content);
-            response.EnsureSuccessStatusCode();
-
-            var responseContent = await response.Content.ReadAsStringAsync();
-            return JsonSerializer.Deserialize<Todo>(responseContent, _jsonOptions) 
-                ?? throw new InvalidOperationException("Failed to create todo");
-        }
     }
 }

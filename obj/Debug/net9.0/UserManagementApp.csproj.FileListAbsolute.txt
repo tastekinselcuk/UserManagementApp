@@ -14,13 +14,13 @@ C:\Users\taste\Desktop\guvence_hesabi\UserManagementApp\obj\Debug\net9.0\UserMan
 C:\Users\taste\Desktop\guvence_hesabi\UserManagementApp\obj\Debug\net9.0\UserManagementApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\taste\Desktop\guvence_hesabi\UserManagementApp\obj\Debug\net9.0\UserManagementApp.RazorAssemblyInfo.cache
 C:\Users\taste\Desktop\guvence_hesabi\UserManagementApp\obj\Debug\net9.0\UserManagementApp.RazorAssemblyInfo.cs
+C:\Users\taste\Desktop\guvence_hesabi\UserManagementApp\obj\Debug\net9.0\UserManagementApp.sourcelink.json
 C:\Users\taste\Desktop\guvence_hesabi\UserManagementApp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\taste\Desktop\guvence_hesabi\UserManagementApp\obj\Debug\net9.0\scopedcss\bundle\UserManagementApp.styles.css
 C:\Users\taste\Desktop\guvence_hesabi\UserManagementApp\obj\Debug\net9.0\scopedcss\projectbundle\UserManagementApp.bundle.scp.css
 C:\Users\taste\Desktop\guvence_hesabi\UserManagementApp\obj\Debug\net9.0\compressed\ifm3g79ye8-b9sayid5wm.gz
 C:\Users\taste\Desktop\guvence_hesabi\UserManagementApp\obj\Debug\net9.0\compressed\kpcjccfvcp-61n19gt1b8.gz
-C:\Users\taste\Desktop\guvence_hesabi\UserManagementApp\obj\Debug\net9.0\compressed\8z03z80c97-xtxxf3hu2r.gz
-C:\Users\taste\Desktop\guvence_hesabi\UserManagementApp\obj\Debug\net9.0\compressed\45kpnh5nq4-nfuigs3bbb.gz
+C:\Users\taste\Desktop\guvence_hesabi\UserManagementApp\obj\Debug\net9.0\compressed\45kpnh5nq4-dypyu0inwq.gz
 C:\Users\taste\Desktop\guvence_hesabi\UserManagementApp\obj\Debug\net9.0\compressed\2pfxfeopu0-bqjiyaj88i.gz
 C:\Users\taste\Desktop\guvence_hesabi\UserManagementApp\obj\Debug\net9.0\compressed\2p8nvnpasa-c2jlpeoesf.gz
 C:\Users\taste\Desktop\guvence_hesabi\UserManagementApp\obj\Debug\net9.0\compressed\q7ggelrjkb-erw9l3u2r3.gz
